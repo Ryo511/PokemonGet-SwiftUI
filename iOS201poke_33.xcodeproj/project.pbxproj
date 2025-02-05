@@ -56,7 +56,6 @@
 				A7C04BFB2BD77F9B007F7951 /* iOS201poke_33App.swift */,
 				A7C04BFD2BD77F9B007F7951 /* ContentView.swift */,
 				A7E0885D2BE9CBAB007D1B9D /* Api */,
-				A7E0885C2BE9CB8B007D1B9D /* View */,
 				A7C04BFF2BD77F9D007F7951 /* Assets.xcassets */,
 				A7C04C012BD77F9D007F7951 /* Preview Content */,
 			);
@@ -69,13 +68,6 @@
 				A7C04C022BD77F9D007F7951 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		A7E0885C2BE9CB8B007D1B9D /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
 			sourceTree = "<group>";
 		};
 		A7E0885D2BE9CBAB007D1B9D /* Api */ = {
